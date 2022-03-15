@@ -1,0 +1,13 @@
+﻿  Actor.cpp
+D:\文档\UCLA\2021Winter\CS32\project3\skeleton\GhostRacer\GhostRacer\Actor.cpp(95,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\文档\UCLA\2021Winter\CS32\project3\skeleton\GhostRacer\GhostRacer\Actor.cpp(96,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\文档\UCLA\2021Winter\CS32\project3\skeleton\GhostRacer\GhostRacer\Actor.cpp(413,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文档\UCLA\2021Winter\CS32\project3\skeleton\GhostRacer\GhostRacer\Actor.cpp(425,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  GameController.cpp
+  GameWorld.cpp
+  main.cpp
+  StudentWorld.cpp
+D:\文档\UCLA\2021Winter\CS32\project3\skeleton\GhostRacer\GhostRacer\StudentWorld.cpp(180,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\文档\UCLA\2021Winter\CS32\project3\skeleton\GhostRacer\GhostRacer\StudentWorld.cpp(233,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  GhostRacer.vcxproj -> D:\文档\UCLA\2021Winter\CS32\project3\skeleton\GhostRacer\Debug\GhostRacer.exe
